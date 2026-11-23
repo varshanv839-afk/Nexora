@@ -1,0 +1,6 @@
+{
+  "name": "ResearchFlow AI",
+  "description": "Autonomous multi-agent AI research platform that plans investigations, gathers sources, verifies claims, detects contradictions, uncovers research gaps, and synthesizes evidence-backed reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
