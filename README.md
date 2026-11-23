@@ -48,3 +48,20 @@ Every major research claim can be linked to supporting sources, evidence excerpt
 ### 2. Contradiction Radar
 Detects disagreements between sources and helps investigate whether conflicts arise from different methodologies, time periods, contexts, or viewpoints.
 
+## 🚧 Current Project Status
+
+**Status: Working Prototype — Active Development**
+
+ResearchFlow AI is evolving from a research concept into an interactive AI-powered research workspace.
+
+Current capabilities include:
+- Integrated academic paper discovery
+- Multi-source academic search using OpenAlex, Crossref, and Semantic Scholar
+- Intelligent research query expansion
+- Topic tree and targeted follow-up queries
+- Research execution logs
+- Paper discovery and verification workflow
+- DOI and open-access link support
+- Interactive research workspace and dashboard
+
+Additional capabilities, including advanced multi-agent collaboration, evidence intelligence, contradiction analysis, research gap detection, and report generation, are being developed and improved.
